@@ -41,13 +41,3 @@ The `histogram.c` file contains the core logic for the histogram module:
 The main functions typically found in `histogram.c` include:
 - `void processData(int *data, int size)`: Processes the input data to calculate the frequency distribution.
 - `void generateHistogram(int *frequency, int size)`: Generates the histogram based on the frequency distribution.
-
-## Compilation and Execution
-
-To compile and run the files in this folder, follow these steps:
-
-1. **Navigate to the folder** containing these files in your terminal.
-
-2. **Compile the files** using the following command:
-   ```sh
-   gcc -o histogram main.c histogram.c
