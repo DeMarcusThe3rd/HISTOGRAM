@@ -19,4 +19,4 @@ This repository hosts the required files to run a histogram program coded in C l
 ## Usage
 1. Download the .exe and open your preferred console.
 2. Run the file and pass 2 arguments to it: a .hist file and a .txt file.
-e.g. 'histogram input.hist' 'input.txt'
+
