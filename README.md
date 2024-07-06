@@ -16,3 +16,7 @@ This repository hosts the required files to run a histogram program coded in C l
 - `example.hist`: Contains a set of numerical data for testing.
 - `example.txt`: Contains a set of alphabetical data for testing.
 
+## Usage
+1. Download the .exe and open your preferred console.
+2. Run the file and pass 2 arguments to it: a .hist file and a .txt file.
+e.g. 'histogram input.hist' 'input.txt'
